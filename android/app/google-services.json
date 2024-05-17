@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9670766431",
+    "project_id": "sensor-75cb9",
+    "storage_bucket": "sensor-75cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9670766431:android:488110df000506281750ea",
+        "android_client_info": {
+          "package_name": "com.example.latest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7BzlN7pgOpvqcZ7uTRivejTQsUy2ffd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
